@@ -1,0 +1,31 @@
+### YamlMime:PowershellModule
+children:
+- title: PackageManagement
+  cmdlets:
+  - PackageManagement.Find-Package
+  - PackageManagement.Find-PackageProvider
+  - PackageManagement.Get-Package
+  - PackageManagement.Get-PackageProvider
+  - PackageManagement.Get-PackageSource
+  - PackageManagement.Import-PackageProvider
+  - PackageManagement.Install-Package
+  - PackageManagement.Install-PackageProvider
+  - PackageManagement.Register-PackageSource
+  - PackageManagement.Save-Package
+  - PackageManagement.Set-PackageSource
+  - PackageManagement.Uninstall-Package
+  - PackageManagement.Unregister-PackageSource
+uid: PackageManagement
+name: PackageManagement
+description: |-
+  This topic displays help topics for the Package Management Cmdlets.
+metadata:
+  Download Help Link: https://go.microsoft.com/fwlink/?linkid=855962
+  Help Version: 6.2.5.0
+  keywords: powershell,cmdlet
+  Locale: en-US
+  Module Guid: 4ae9fd46-338a-459c-8186-07f910774cb8
+  Module Name: PackageManagement
+  ms.date: 06/09/2017
+  schema: 2.0.0
+  title: PackageManagement
